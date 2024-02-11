@@ -1,0 +1,144 @@
+.d-block{
+    height: 70vh;
+}
+.button1{
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+    border-color: white;
+}
+.text-main{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 5vw;
+}
+.text1{
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.first{
+    width: 40vw;
+}
+.column1{
+    background-color: rgb(14, 8, 36);
+    height: 70vh;
+}
+.text2{
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.photos{
+    width: 49.5vw;
+    height: 70vh;
+    margin-left: -0.8vw;
+}
+.photoss{
+    width: 49.5vw;
+    height: 83vh;
+    margin-left: -0.8vw;
+}
+.peragraph1{
+    color: white;
+    opacity: 0.6;
+    font-family: sans-serif;
+}
+.button2{
+    width: 180px;
+    font-weight: bold;
+    background: transparent;
+    border-radius: 20px;
+    color: white;
+    border-color: white;
+}
+.button3{
+    width: 160px;
+    font-weight: bold;
+    background-color: rgb(199, 199, 22);
+    border-radius: 20px;
+    color: white;
+    border-color: gray; 
+}
+.column2{
+    background-color: rgb(14, 8, 36);
+    height: 70vh;
+}
+.button4{
+    width: 180px;
+    font-weight: bold;
+    background: transparent;
+    border-radius: 20px;
+    color: white;
+    border-color: gray;
+}
+.column3{
+    background-color: rgb(14, 8, 36);
+    height: 83vh;
+}
+/* .number{
+    font-size: 80px;
+    margin-left: -37px;
+    padding-bottom:30px;
+} */
+.number{
+    /* width: 10px; */
+    height:190px;
+    float: left;
+    font-size: 85px;
+    opacity: 0.1;
+}
+.numbers{
+    height:190px;
+    float: left;
+    font-size: 85px;
+    margin-left:-42px;
+    opacity: 0.1;
+}
+.peragraph2{
+    opacity: 0.4;
+    font-family: sans-serif;
+}
+.second{
+    width: 42vw;
+}
+#row3{
+    height: 45vh;
+}
+.image{
+    width: 8vw;
+    float: left;
+    border-radius: 180px;
+}
+.divergent{
+    width: 43vw;  
+}
+#footer{
+    background-color: rgb(221, 221, 30);
+}
+#footer-div{
+    width: 28vw;
+}
+.button5{
+    width: 200px;
+    border-radius: 40px;
+    background: transparent;
+    border-color: white;
+    color: white;
+    font-weight: bold;
+}
+.footer-text{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.logo{
+    width: 2vw;
+}
+.footer-name{
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+}
